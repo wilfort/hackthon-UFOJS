@@ -1,0 +1,7 @@
+{
+    "user":
+        {
+            "test":{"psedo":"test","password":"test"},
+            "admin":{"psedo":"admin","password":"admin"}
+        }
+}
